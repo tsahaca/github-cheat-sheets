@@ -5,8 +5,8 @@
 
 .Tasks & commands
 [options="header,footer"]
-|Task    |Commands
 |=======================
+|Task    |Commands
 |To stop tracking a file, you need to remove it from the index. This can be achieved with this command   |git rm -f --cached <file>
 |To remove a whole folder, you need to remove all files in it recursively. |git rm -f -r --cached <folder>
 |=======================
